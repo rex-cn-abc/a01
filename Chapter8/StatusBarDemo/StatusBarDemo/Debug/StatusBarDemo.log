@@ -1,0 +1,7 @@
+﻿  StatusBarDemo.cpp
+F:\Source\Windows\Chapter8\StatusBarDemo\StatusBarDemo\StatusBarDemo.cpp(60,16): warning C4101: “stLocal”: 未引用的局部变量
+F:\Source\Windows\Chapter8\StatusBarDemo\StatusBarDemo\StatusBarDemo.cpp(57,11): warning C4101: “pt”: 未引用的局部变量
+F:\Source\Windows\Chapter8\StatusBarDemo\StatusBarDemo\StatusBarDemo.cpp(63,18): warning C4101: “hFontOld”: 未引用的局部变量
+F:\Source\Windows\Chapter8\StatusBarDemo\StatusBarDemo\StatusBarDemo.cpp(59,14): warning C4101: “color”: 未引用的局部变量
+F:\Source\Windows\Chapter8\StatusBarDemo\StatusBarDemo\StatusBarDemo.cpp(52,15): warning C4101: “hInstance”: 未引用的局部变量
+  StatusBarDemo.vcxproj -> F:\Source\Windows\Chapter8\StatusBarDemo\Debug\StatusBarDemo.exe

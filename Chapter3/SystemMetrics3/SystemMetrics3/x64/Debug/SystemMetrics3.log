@@ -1,0 +1,7 @@
+﻿  SystemMetrics3.cpp
+F:\Source\Windows\Chapter3\SystemMetrics3\SystemMetrics3\SystemMetrics3.cpp(44,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+F:\Source\Windows\Chapter3\SystemMetrics3\SystemMetrics3\SystemMetrics3.cpp(70,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\Source\Windows\Chapter3\SystemMetrics3\SystemMetrics3\SystemMetrics3.cpp(73,93): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\Source\Windows\Chapter3\SystemMetrics3\SystemMetrics3\SystemMetrics3.cpp(199,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\Source\Windows\Chapter3\SystemMetrics3\SystemMetrics3\SystemMetrics3.cpp(200,98): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SystemMetrics3.vcxproj -> F:\Source\Windows\Chapter3\SystemMetrics3\x64\Debug\SystemMetrics3.exe
